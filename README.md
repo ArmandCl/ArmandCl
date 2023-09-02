@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandcl&" alt="armandcl" /></p>
 
-<h3>Have a nice day !/h3>
+<h3>Have a nice day ! </h3>
