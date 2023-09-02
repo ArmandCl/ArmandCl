@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armandcl&show_icons=true&locale=en" alt="armandcl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armandcl&" alt="armandcl" /></p>
+
+<h3>Have a nice day !/h3>
